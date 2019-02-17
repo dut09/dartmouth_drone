@@ -1,0 +1,10 @@
+(CW)  Rotor 1   x     Rotor 2 (CCW)
+               /|\
+                |
+                |
+                +--------> 7
+
+
+(CCW) Rotor 4         Rotor 3 (CW)
+
+Top-down view of the drone.
