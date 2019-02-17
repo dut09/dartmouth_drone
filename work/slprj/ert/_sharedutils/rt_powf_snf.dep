@@ -1,0 +1,48 @@
+../../../slprj/ert/_sharedutils/rt_powf_snf.o \
+ ../../../slprj/ert/_sharedutils/rt_powf_snf.o: \
+ ../../../slprj/ert/_sharedutils/rt_powf_snf.c \
+ ../../../slprj/ert/_sharedutils/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/extern/include/tmwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_types.h \
+ C:/Users/dutao/MATLAB/Projects/slexamples/asbQuadcopter2/work/slprj/ert/_sharedutils/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_types_def.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_matlogging.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sysran_types.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_sample_time_defs.h \
+ ../../../slprj/ert/_sharedutils/rtGetNaN.h \
+ ../../../slprj/ert/_sharedutils/rt_nonfinite.h \
+ ../../../slprj/ert/_sharedutils/rtGetInf.h \
+ ../../../slprj/ert/_sharedutils/rt_powf_snf.h
+
+../../../slprj/ert/_sharedutils/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/extern/include/tmwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_types.h:
+
+C:/Users/dutao/MATLAB/Projects/slexamples/asbQuadcopter2/work/slprj/ert/_sharedutils/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_types_def.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_matlogging.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sysran_types.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_sample_time_defs.h:
+
+../../../slprj/ert/_sharedutils/rtGetNaN.h:
+
+../../../slprj/ert/_sharedutils/rt_nonfinite.h:
+
+../../../slprj/ert/_sharedutils/rtGetInf.h:
+
+../../../slprj/ert/_sharedutils/rt_powf_snf.h:
